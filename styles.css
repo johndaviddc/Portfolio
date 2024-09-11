@@ -4,3 +4,12 @@ body {
     background-color: #0f0f3d;
     color: #fff;
 }
+
+#navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #14145a;
+    padding: 10px 0;
+    text-align: center;
+}
