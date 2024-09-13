@@ -30,3 +30,15 @@ body {
     text-decoration: none;
     font-size: 1.2rem;
 }
+
+/* Welcome Section */
+#welcome-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    background-image: url('background-image.png');
+    background-size: cover;
+}
