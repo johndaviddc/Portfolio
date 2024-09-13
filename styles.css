@@ -42,3 +42,8 @@ body {
     background-image: url('background-image.png');
     background-size: cover;
 }
+
+#welcome-section h1 {
+    font-size: 3rem;
+    margin: 0;
+}
