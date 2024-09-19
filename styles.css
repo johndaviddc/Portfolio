@@ -101,3 +101,7 @@ body {
     background-color: #0f0f3d;
     text-align: center;
 }
+
+#contact h2 {
+    font-size: 2rem;
+}
