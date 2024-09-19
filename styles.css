@@ -94,3 +94,10 @@ body {
 .project-tile a:hover {
     color: #ddd;
 }
+
+/* Contact Section */
+#contact {
+    padding: 50px;
+    background-color: #0f0f3d;
+    text-align: center;
+}
