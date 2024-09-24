@@ -116,4 +116,8 @@ body {
         display: block;
         margin-bottom: 10px;
     }
+
+    #welcome-section h1 {
+        font-size: 2rem;
+    }
 }
